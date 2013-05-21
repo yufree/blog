@@ -1,1 +1,5 @@
+markdown: rdiscount
+permalink: /:year/:month/:title/
+author: Miao YU
 baseurl: /blog
+pygments: true
