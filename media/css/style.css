@@ -38,12 +38,11 @@ ol, ul {
   list-style-position: inside; }
 
 #main {
-  margin: 2em 5em 1em 4em; }
+  margin: 0 auto; }
 
 #header {
   width: 680px;
-  margin: 4em auto;
-  margin: 5em auto 4em auto;
+  margin: 0 auto;
   top: 5em
   left: 6em
   text-align: center; }
