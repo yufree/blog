@@ -14,7 +14,7 @@
 @import url(http://fonts.googleapis.com/css?family=Cuprum);
 body
 {
-    font-size:14px;
+    font-size:18px;
     font-family:"Galdeano","Hiragino Sans GB","Microsoft YaHei",Trebuchet,"Trebuchet MS",Tahoma,"Lucida Grande","Lucida Sans Unicode",Verdana,sans-serif;
     color:#000000;
     background-color:#f1f3ec;
@@ -63,7 +63,7 @@ ol ul, ul ol, ul ul, ol ol
 pre code
 {
     margin:1em 0;
-    font-size:13px;
+    font-size:15px;
     line-height:1.6;
     display:block;
     overflow:auto;
@@ -120,23 +120,21 @@ blockquote p
 .meta
 {
     text-align:right;
-    font-size:12px;
+    font-size:14px;
 }
 header
 {
     padding:.5em 0;
     border-bottom: 1px solid #323031;
-    font-size:30px
 }
 nav
 {
     font-family:"Electrolize",sans-serif;
     font-size:16px;
     text-transform:uppercase;
-    float:left;
-    margin-left:-7em;
-    margin-right:3em;
-    width:7em;
+    margin-left:-10em;
+    margin-right:-10em;
+    width:10em;
     text-align:center;
 }
 nav a
@@ -157,31 +155,31 @@ nav a:hover
 h1
 {
     font-family:"Cuprum","Hiragino Sans GB","Microsoft YaHei",sans-serif;
-    font-size:15px;
+    font-size:18px;
     color:#000;
 }
 h2
 {
     font-family:"Cuprum","Hiragino Sans GB","Microsoft YaHei",sans-serif;
-    font-size:13px;
+    font-size:15px;
     color:#222;
 }
 h3
 {
     font-family:"Cuprum","Hiragino Sans GB","Microsoft YaHei",sans-serif;
-    font-size:11px;
+    font-size:13px;
     color:#444;
 }
 h4
 {
     font-family:"Cuprum","Hiragino Sans GB","Microsoft YaHei",sans-serif;
-    font-size:10px;
+    font-size:11px;
     color:#888;
 }
 pre,code
 {
     font-family:Menlo,"Andale Mono",Consolas,"Courier New",Monaco,monospace;
-    font-size:12px;
+    font-size:14px;
 }
 code
 {background-color:#848a91;}
@@ -192,6 +190,6 @@ embed,object,iframe
 }
 .gist
 {
-    font-size: 12px;
+    font-size: 14px;
     line-height:1.6;
 }
