@@ -1,4 +1,4 @@
-baseurl: /blog
+url: http://yufree.github.com/blog
 markdown: rdiscount
 author: Miao YU
 pygments: true
