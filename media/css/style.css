@@ -44,6 +44,8 @@ ol, ul {
   width: 680px;
   margin: 4em auto;
   margin: 5em auto 4em auto;
+  top: 5em
+  left: 6em
   text-align: center; }
   #header a {
     color: #999999;
