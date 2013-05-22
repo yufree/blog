@@ -1,2 +1,4 @@
 baseurl: /blog
+markdown: rdiscount
 author: Miao YU
+pygments: true
