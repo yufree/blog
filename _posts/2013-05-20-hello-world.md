@@ -1,6 +1,7 @@
 ---
 layout: default
 title: HELLO WORLD!
+comments: yes
 ---
 
 *italic*   **bold**
@@ -26,6 +27,7 @@ http://example.com
 
 [linked phrase](http://example.com)
 
+![icon](/figure/fish.jpg)
 
 A friend once said:
 
