@@ -79,6 +79,9 @@ nav {
   font-size: 1.1em;
   line-height: 1.7em; }
   #content article {
+    position: fixed;
+    top: 20px;
+    left: 100px
     padding: 1.25em 24px;
     background-color: #ffffff;
     border: 1px solid #e0e0e0;
