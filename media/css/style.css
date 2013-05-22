@@ -61,7 +61,7 @@ nav {
   text-align: left;
   position: absolute;
   top: 1em;
-  right: 2em; }
+  left: 2em; }
   nav span {
     display: block;
     margin: 1em 0; }
