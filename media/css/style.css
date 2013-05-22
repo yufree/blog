@@ -20,10 +20,11 @@ a {
   padding: 0; }
 
 body {
-  font-size: 14px;
-  font-family: "Overlock", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
-  color: #555555;
-  background-image: url("/media/css/bg.png"); }
+    background: #fff
+    font-size: 14px;
+    font-family: "Overlock", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
+    color: #555555;
+    }
 
 a {
   text-decoration: none;
