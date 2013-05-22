@@ -26,9 +26,6 @@ http://example.com
 
 [linked phrase](http://example.com)
 
-![alt text](http://example.com/logo.png)
-
-![alt text](figures/img.png)
 
 A friend once said:
 

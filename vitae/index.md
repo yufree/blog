@@ -6,7 +6,7 @@ title: Vitae
 
 ## Contact Information
 
-- ADDRESS
+- Address
 
 State Key Laboratory of Environmental Chemistry and Ecotoxicology Research Center for Eco-Environmental Sciences
 Chinese Academy of Sciences
@@ -19,7 +19,7 @@ yufree@live.cn
 
 - Pages
 
-<http://yufree.github.io/blog/>
+[yufree's blog](http://yufree.github.io/blog/)
 
 ## Research Interest
 
@@ -56,8 +56,8 @@ yufree@live.cn
 
 ## Computer Skills
 
-- R > Matlab > excel > python
+- R > Matlab > Excel > Python
 - Tex
 - Endnote > Bibtex > Citespace > Histcite
 
-I love open sourde software!
+_I love open source software!_
