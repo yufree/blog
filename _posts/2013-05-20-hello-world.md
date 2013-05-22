@@ -1,7 +1,6 @@
 ---
-layout: default
+layout: post
 title: HELLO WORLD!
-comments: yes
 ---
 
 *italic*   **bold**
