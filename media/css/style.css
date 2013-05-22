@@ -125,15 +125,17 @@ blockquote p
 header
 {
     padding:.5em 0;
-    border-bottom: 1px solid #323031;}
+    border-bottom: 1px solid #323031;
+    font-size:20px
+}
 nav
 {
     font-family:"Electrolize",sans-serif;
     font-size:16px;
     text-transform:uppercase;
     float:left;
-    margin-left:-10em;
-    width:10em;
+    margin-left:-7em;
+    width:7em;
     text-align:center;
 }
 nav a
@@ -154,31 +156,31 @@ nav a:hover
 h1
 {
     font-family:"Cuprum","Hiragino Sans GB","Microsoft YaHei",sans-serif;
-    font-size:1.6em;
+    font-size:15px;
     color:#000;
 }
 h2
 {
     font-family:"Cuprum","Hiragino Sans GB","Microsoft YaHei",sans-serif;
-    font-size:1.4em;
+    font-size:13px;
     color:#222;
 }
 h3
 {
     font-family:"Cuprum","Hiragino Sans GB","Microsoft YaHei",sans-serif;
-    font-size:1.2em;
+    font-size:11px;
     color:#444;
 }
 h4
 {
     font-family:"Cuprum","Hiragino Sans GB","Microsoft YaHei",sans-serif;
-    font-size:1em;
+    font-size:10px;
     color:#888;
 }
 pre,code
 {
     font-family:Menlo,"Andale Mono",Consolas,"Courier New",Monaco,monospace;
-    font-size:13px;
+    font-size:12px;
 }
 code
 {background-color:#848a91;}
