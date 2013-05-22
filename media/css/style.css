@@ -126,14 +126,14 @@ header
 {
     padding:.5em 0;
     border-bottom: 1px solid #323031;
+    font-size: 30px
 }
 nav
 {
     font-family:"Electrolize",sans-serif;
-    font-size:16px;
     text-transform:uppercase;
-    margin-left:-10em;
-    margin-right:-10em;
+    margin-left:-12em;
+    margin-right:-12em;
     width:10em;
     text-align:center;
 }
