@@ -17,7 +17,7 @@ body
     font-size:14px;
     font-family:"Galdeano","Hiragino Sans GB","Microsoft YaHei",Trebuchet,"Trebuchet MS",Tahoma,"Lucida Grande","Lucida Sans Unicode",Verdana,sans-serif;
     color:#000000;
-    background-color:#BFFFFF;
+    background-color:#dcdcdc;
 }
 *
 {
@@ -28,17 +28,17 @@ body
 }
 a
 {
-    color:#BFFFFF;
+    color:#00bfff;
     text-decoration:none;
 }
 a:hover
 {
-    color:#BFFFFF;
+    color:#000000;
     text-decoration:underline;
 }
 hr
 {
-    margin:.7em 0;
+    margin:1em 0;
     border-top:1px 
     dashed #d0d0d0;
     border-bottom:1px 
@@ -126,7 +126,7 @@ header
 nav
 {
     font-family:"Electrolize",sans-serif;
-    font-size:1.1em;
+    font-size:14em;
     text-transform:uppercase;
     float:left;
     margin-left:-12em;
@@ -141,9 +141,9 @@ nav a
 }
 nav a:hover
 {
-    background-color:#ff0000;
+    background-color:#5f9ea0;
     text-decoration:none;
-    color:#f9f9f9;
+    color:#6495ed;
     -webkit-transition:color .2s linear;
 }
 .post
@@ -158,19 +158,19 @@ h2
 {
     font-family:"Cuprum","Hiragino Sans GB","Microsoft YaHei",sans-serif;
     font-size:1.4em;
-    color:#111;
+    color:#222;
 }
 h3
 {
     font-family:"Cuprum","Hiragino Sans GB","Microsoft YaHei",sans-serif;
     font-size:1.2em;
-    color:#222;
+    color:#444;
 }
 h4
 {
     font-family:"Cuprum","Hiragino Sans GB","Microsoft YaHei",sans-serif;
     font-size:1em;
-    color:#333;
+    color:#888;
 }
 pre,code
 {
