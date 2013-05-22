@@ -1,7 +1,7 @@
 ---
-title: links
+title: Links
 layout: page
 ---
 
 - [Yihui's blog](http://yihui.name): Codes where I got my blog's style
-- [lhzhang's blog](http://lhzhang.com/):Pages where I got my blog's style
+- [yufree](http://blog.sciencenet.cn/u/yufree): My Chinese pages
