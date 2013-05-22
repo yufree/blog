@@ -27,7 +27,7 @@ http://example.com
 
 [linked phrase](http://example.com)
 
-![icon](/figure/fish.jpg)
+![icon]({{site.url}}/figure/fish.jpg)
 
 A friend once said:
 
