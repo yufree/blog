@@ -19,7 +19,7 @@ yufree@live.cn
 
 - Pages
 
-[yufree's blog](http://yufree.github.io/blog/)
+[Yufree's blog](http://yufree.github.io/blog/)
 
 ## Research Interest
 
@@ -32,14 +32,19 @@ yufree@live.cn
 ## Education Background
 
 - 2010.08 ~ Present, PhD student in Research Center for Eco-Environmental Sciences(RCEES), Chinese Academy of Sciences
+
 - 2006.08 ~ 2010.06, Bachelor of Science, School of Environmental Science and Technology, Shandong University 
 
 ## Honors & Awards
 
 - The first prize in the group competition in science and technology innovation fund project, Shandong University, 2008
+
 - Advanced staff in scientific and technical research, Shandong University, 2007
+
 - Second-class scholarship, Shandong University, 2007 
+
 - Outstanding Minister of Students Union in School of Environmental Science and Technology, Shandong University, 2007-2008 
+
 - Outstanding Member of Students Union in School of Environmental Science and Technology, Shandong University, 2006-2007 
 
 ## Publication
