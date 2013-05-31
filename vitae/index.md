@@ -62,7 +62,7 @@ yufree@live.cn
 
 - Most of my data analysis is done under RStudio wiht Knitr and I think repeatability studies are important for every scientist and I know how to use Excle, origin, SPSS, Matlab... but I just prefer R;
 
-- Beamer is simple and Powerpoint is beautiful but recently I found html5 could be used to give a presentation well£»
+- Beamer is simple and Powerpoint is beautiful but recently I found html5 could be used to give a presentation well;
 
 - I use Endnote to manage my literatures and comment each of them, then I will use evernote to collect some novol ideas and bibtex for a paper;
 
