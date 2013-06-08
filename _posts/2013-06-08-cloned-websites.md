@@ -1,6 +1,6 @@
 ---
 layout: post
-title: SNS websites in China
+title: SNS Websites in China
 ---
 
 If you find a Chinese blog, you may confused by so many unknown icons at the share buttons. You may want to know the daily life of Chinese and only to find the Chinese on the Facebook are also lived in you country. Here, I think you need to know something about the network in China.
