@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The log transformation of concentration data
+title: The Log Transformation of Concentration Data
 ---
 
 Recently, I read Part I of Song S. Qian's book - *Environmental and Ecological Statistics with R* and find some interesting tips about statistics in environmental science. Here I will discuss the log transformation of concentration.

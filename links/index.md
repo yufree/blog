@@ -5,7 +5,7 @@ layout: page
 
 - [Yihui's blog](http://yihui.name): Codes where I got my blog's style
 
-- [Yufree](http://blog.sciencenet.cn/u/yufree): My Chinese pages
+- [Yufree](http://http://yufree.github.io/blogcn): My Chinese pages
 
 - [Photo](http://yufree.diandian.com/): I am not a photographer, but I like it
 
