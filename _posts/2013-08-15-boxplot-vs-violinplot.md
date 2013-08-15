@@ -1,23 +1,34 @@
 ---
 layout: post
-title: box plot v.s. violin plot
+title: Box Plot v.s. Violin Plot
 ---
 
-In a seminar I introduce the violin plot and show the following figure(this example comes from the help document):
+In a seminar I introduced the violin plot and showed the following figure(this example comes from the help document):
 
 
 
 ```r
+
 library(vioplot)
+
 library(sm)
+
 par(mfrow = c(1, 2))
+
 mu <- 2
+
 si <- 0.6
+
 bimodal <- c(rnorm(1000, -mu, si), rnorm(1000, mu, si))
+
 uniform <- runif(1000, -4, 4)
+
 normal <- rnorm(2000, 0, 3)
+
 vioplot(bimodal, uniform, normal)
+
 boxplot(bimodal, uniform, normal)
+
 ```
 
 ![plot of chunk vs](http://yufree.github.io/blog/figure/vs.png) 
