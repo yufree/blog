@@ -40,7 +40,7 @@ So obviously, the violin plot can show more information than box plot. When we p
 
 - the modification box plot could show the number of observations in the groups using the var width while the violin plot couldn't. When we make some comparison between different groups, the violin plot will hide this information.
 
-- Another problem is the notch in the box plot. In the violin plot, we get a better understanding of distribution of violin plot but less with comparisone with 'strong evidence'(Chambers et al., 1983, p. 62).
+- Another problem is the notch in the box plot to compare the median. In the violin plot, we get a better understanding of distribution of violin plot but less with comparisone with 'strong evidence'(Chambers et al., 1983, p. 62).
 
 Those were nitpick reasons but I think if someone just want to show the violin plot instead of box plot, he need to know the details. Nowadays, it is easy to use new concepts to confusing the readers, we need more thoughts about the nature. Here is a example: there are numbers people who thought the box plot show the mean...
 
