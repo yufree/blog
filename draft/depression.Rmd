@@ -1,0 +1,81 @@
+depression
+========================================================
+
+# What is Depression?
+
+## Diagnostic Criteria of Major Depressive Episode
+
+### At least one of the following three abnormal moods significantly interfered with the person's life:
+
+- Abnormal depressed mood most of the day, nearly every day, for at least two weeks (dysphoria)
+
+- Abnormal loss of all interest and pleasure most of the day, nearly every day, for at least two weeks (anhedonia)
+
+- If 18 or younger, abnormal irritable mood most of the day, nearly every day, for at least two weeks
+
+### At least five of the following symptoms have been present during the same two week depressed period
+
+- Depressed mood (criterion A, above)
+- Loss of all interest and pleasure (criterion B, above)
+- Appetite or weight disturbance
+- Sleep disturbance
+- Agitation or slowing
+- Fatigue or loss of energy
+- Abnormal inappropriate guilt
+- Poor concentration
+- Thoughts of death or suicide
+
+## source
+
+- Inheritance
+- Stress/Loss
+
+# Prevalence and Incidence of Major Depressive Episode
+
+## Prevalence: the proportion in the population with the illness, e.g., a percentage (burden)
+
+- Define and count the population denominator
+- Count cases for the numerator from that defined population
+ 
+## Incidence: the rate at which new cases form in the population, e.g.rate per time (force of morbidity)
+
+- Define the population
+- Define the cohort (risk set) who have never had the disorder
+- Define the time period for follow-up
+- Count the number of person years for the denominator
+- Count the number of new cases for the numerator
+
+## variety
+
+- gender: female early
+- age: after 50
+- lifetime: raise then decrease
+- culture: east low, west high
+
+# The Natural History of Major Depressive Disorder
+
+- Prodrome is the period after the disease has begun, before it is diagnosed
+  - Dysphoria and suicide have a long prodrome
+- Onset is the beginning of the first episode
+  - Episodes last several months
+- Remission is the end of the symptoms in an episode
+- Recovery occurs when a year has passed without another episode
+- Recurrence is the start of a later episode after recovery
+  - About 50% of all lifetime cases have only one episode
+  - About 15% of all lifetime cases are unremitting
+  - About 35% of all lifetime cases have a relapsing and remitting course
+- Gender Is Associated With Prevalence of Major Depressive Disorder, But Not With Bipolar Disorder
+- Gender Affects Incidence But Not Recurrence and Duration
+
+# Major Depressive Disorder and Medical Conditions
+
+- Predictors of Non-Insulin Dependent Diabetes Onset
+- Find connection between Depression and certain illness
+
+# Estimating the Burden of Major Depressive Disorder and Medical Conditions
+
+- Estimating the Burden of Disease–Disability Weights
+  - Disability weight of 0.0 = healthy person
+  - Disability weight of 1.0 = death
+  - Disability weight of 0.5 = disability weight indicating the prevention program would have to extend life for two years
+- Depression for estimation of disability weight: about 0.35 and top3 around the world
