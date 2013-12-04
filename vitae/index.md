@@ -53,7 +53,7 @@ yufree@live.cn
 
 [My Google Scholar Pages](http://scholar.google.com/citations?user=SPNX8oUAAAAJ&hl=en)
 
-Yu, Miao, et al. "Metabolites of 2, 4, 4'-tribrominated diphenyl ether (BDE-28) in pumpkin after in vivo and in vitro exposure." Environmental science & technology (2013).
+Miao Yu, Jiyan Liu, Thanh Wang, Jianteng Sun, Runzeng Liu, and Guibin Jiang, Metabolites of 2,4,4′-Tribrominated Diphenyl Ether (BDE-28) in Pumpkin after In Vivo and In Vitro Exposure*Environmental Science & Technology* 2013 47 (23), 13494-13501
 
 ### In Chinese
 
@@ -71,7 +71,7 @@ Yu, Miao, et al. "Metabolites of 2, 4, 4'-tribrominated diphenyl ether (BDE-28) 
 
 - Beamer is simple and Powerpoint is beautiful but recently I found html5 could be used to give a presentation well;
 
-- <s>I use Endnote to manage my literatures and comment each of them, then I will use evernote to collect some novol ideas and bibtex for a paper</s>I change to Zotero;
+- <s>I use Endnote to manage my literatures and comment each of them, then I will use evernote to collect some novol ideas and bibtex for a paper</s>I use Zotero and 4share as webdev for attachment;
 
 - I learned C when I was a freshman then I also learned S, python and Matlab for simple programming in my research but I think shell is more powerful;
 
