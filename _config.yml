@@ -1,4 +1,4 @@
 url: http://yufree.github.com/blog
-markdown: rdiscount
+markdown: kramdown
 author: Miao Yu
 pygments: true
