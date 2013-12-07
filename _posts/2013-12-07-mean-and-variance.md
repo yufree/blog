@@ -121,4 +121,4 @@ For the estimator $S^2$ of $\sigma^2$ is unbiased, the calculation of sample var
 
 If I want to descript a collection of samples, the mean is esay to get. But if we want to know the population behind the samples, we will use S as a description of the spread. But if we only care the mean, the $S / \sqrt{n}$ will show the description of the error when we calculate the mean. When the n is large enough, we will get a precise mean with small error. But this error have no effect of S, which is the description of the spread behind the sample. If you want an interval estimation of the sample mean instead of a point estimation, you may need to consider that t-value multiply the standard error.
 
-Ok, finally I sort out those terms.
+Ok, finally I sort out those terms. I cite the work done by [Professor Brian Caffo](https://github.com/bcaffo/Caffo-Coursera), thank you very much.
