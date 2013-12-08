@@ -49,13 +49,13 @@ Mean tell us the center of the distribution because we just use the smallest dis
 Here, we need to talk about moment in another view. The mean or the expected values is the first raw moment and the second central moment is variance. The [moment](http://en.wikipedia.org/wiki/Moment_(mathematics)) is another discription method of the distribution. Here we only use the formula of variance:
 
 $$
-\Var(X) = E[(X - \mu)^2] 
+Var(X) = E[(X - \mu)^2] 
 $$
 
 And the variance could be written as:
 
 $$
-\Var(X) = E[X^2] - E[X]^2 
+Var(X) = E[X^2] - E[X]^2 
 $$
 
 So how to understand the variance in probability?
@@ -64,15 +64,6 @@ So how to understand the variance in probability?
 
 $$
 P(|X - \mu| \geq k\sigma) \leq \frac{1}{k^2} 
-$$
-
-We proof it:
-
-$$
-P(|X - \mu| > k\sigma) & = & \int_{\{x: |x-\mu| > k\sigma\}} f(x) dx \\
-& \leq & \int_{\{x:|x -\mu| > k\sigma\}}\frac{(x - \mu)^2}{k^2\sigma^2} f(x) dx \\
-& \leq & \int_{-\infty}^{\infty} \frac{(x - \mu)^2}{k^2\sigma^2} f(x) dx \\
-& = & \frac{1}{k^2} 
 $$
 
 Here we found the variance actually show the probaliblity of a observation in a distribution. That is just a description of spread of the distribution.
@@ -84,20 +75,22 @@ Ok, we talk enough about the distribution itself. Next we will see the sample.
 The independent and identically distributed random variables are the default model for random samples. Under iid, we could use the probaliblity to give out the description of sample. So if the values of variables is uncorrelated, then the variance of the sum is the sum of the variances.
 
 $$
-\Var\left(\sum_{i=1}^n X_i \right) = \sum_{i=1}^n \Var(X_i) 
+Var\left(\sum_{i=1}^n X_i \right) = \sum_{i=1}^n \Var(X_i) 
 $$
 
 So we will get the variance of the mean of the sample:
 
 $$
+\begin{align}
 \Var(\bar X) & = & \Var \left( \frac{1}{n}\sum_{i=1}^n X_i \right)\\ \\
     & = & \frac{1}{n^2} \Var\left(\sum_{i=1}^n X_i \right)\\ \\
     & = & \frac{1}{n^2} \sum_{i=1}^n \Var(X_i) \\ \\
     & = & \frac{1}{n^2} \times n\sigma^2 \\ \\
     & = & \frac{\sigma^2}{n} 
+\end{align}
 $$
 
-We also get the standard error of the sample mean: $ \sigma/\sqrt{n} $,the sample mean has to be less variable than a single observation, therefore its standard deviation is divided.
+We also get the standard error of the sample mean: $$ \sigma/\sqrt{n} $$,the sample mean has to be less variable than a single observation, therefore its standard deviation is divided.
 
 For the sample mean which is the unbiased estimator of the population, nothing could be discussed. But for the sample variance need more attentions:
 
@@ -108,17 +101,19 @@ $$
 We proof it:
 
 $$
+\begin{align}
 E\left[\sum_{i=1}^n (X_i - \bar X)^2\right] & = & \sum_{i=1}^n E\left[X_i^2\right] - n E\left[\bar X^2\right] \\ \\
     & = & \sum_{i=1}^n \left\{\Var(X_i) + \mu^2\right\} - n \left\{\Var(\bar X) + \mu^2\right\} \\ \\
     & = & \sum_{i=1}^n \left\{\sigma^2 + \mu^2\right\} - n \left\{\sigma^2 / n + \mu^2\right\} \\ \\
     & = & n \sigma^2 + n \mu ^ 2 - \sigma^2 - n \mu^2 \\ \\
     & = & (n - 1) \sigma^2
+\end{align}
 $$
 
-For the estimator $ S^2 $ of $ \sigma^2 $ is unbiased, the calculation of sample variance $ S^2 $ involves dividing by $ n-1 $. And $ S / \sqrt{n} $ is called the sample standard error of the mean.
+For the estimator $$ S^2 $$ of $$ \sigma^2 $$ is unbiased, the calculation of sample variance $ S^2 $ involves dividing by $$ n-1 $$. And $$ S / \sqrt{n} $$ is called the sample standard error of the mean.
 
 ## Mean Again
 
-If I want to descript a collection of samples, the mean is esay to get. But if we want to know the population behind the samples, we will use S as a description of the spread. But if we only care the mean, the $ S / \sqrt{n} $ will show the description of the error when we calculate the mean. When the n is large enough, we will get a precise mean with small error. But this error have no effect of S, which is the description of the spread behind the sample. If you want an interval estimation of the sample mean instead of a point estimation, you may need to consider that t-value multiply the standard error.
+If I want to descript a collection of samples, the mean is esay to get. But if we want to know the population behind the samples, we will use S as a description of the spread. But if we only care the mean, the $$ S / \sqrt{n} $$ will show the description of the error when we calculate the mean. When the n is large enough, we will get a precise mean with small error. But this error have no effect of S, which is the description of the spread behind the sample. If you want an interval estimation of the sample mean instead of a point estimation, you may need to consider that t-value multiply the standard error.
 
 Ok, finally I sort out those terms. I cite the work done by [Professor Brian Caffo](https://github.com/bcaffo/Caffo-Coursera), thank you very much.
