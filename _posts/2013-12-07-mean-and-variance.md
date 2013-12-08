@@ -2,7 +2,7 @@
 layout: post
 title: Mean, Variance and Something about Sample
 ---
-OK，I must clear the concept of those terms because this is the third time I review my notes.
+OK，I must clear the concepts of those terms because this is the third time I review my notes.
 
 ## Description of Data
 
