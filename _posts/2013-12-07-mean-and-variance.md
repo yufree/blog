@@ -97,7 +97,7 @@ $$
     & = & \frac{\sigma^2}{n} 
 $$
 
-We also get the standard error of the sample mean: $\sigma/\sqrt{n}$,the sample mean has to be less variable than a single observation, therefore its standard deviation is divided.
+We also get the standard error of the sample mean: $ \sigma/\sqrt{n} $,the sample mean has to be less variable than a single observation, therefore its standard deviation is divided.
 
 For the sample mean which is the unbiased estimator of the population, nothing could be discussed. But for the sample variance need more attentions:
 
@@ -115,10 +115,10 @@ E\left[\sum_{i=1}^n (X_i - \bar X)^2\right] & = & \sum_{i=1}^n E\left[X_i^2\righ
     & = & (n - 1) \sigma^2
 $$
 
-For the estimator $S^2$ of $\sigma^2$ is unbiased, the calculation of sample variance $S^2$ involves dividing by $n-1$. And $S / \sqrt{n}$ is called the sample standard error of the mean.
+For the estimator $ S^2 $ of $ \sigma^2 $ is unbiased, the calculation of sample variance $ S^2 $ involves dividing by $ n-1 $. And $ S / \sqrt{n} $ is called the sample standard error of the mean.
 
 ## Mean Again
 
-If I want to descript a collection of samples, the mean is esay to get. But if we want to know the population behind the samples, we will use S as a description of the spread. But if we only care the mean, the $S / \sqrt{n}$ will show the description of the error when we calculate the mean. When the n is large enough, we will get a precise mean with small error. But this error have no effect of S, which is the description of the spread behind the sample. If you want an interval estimation of the sample mean instead of a point estimation, you may need to consider that t-value multiply the standard error.
+If I want to descript a collection of samples, the mean is esay to get. But if we want to know the population behind the samples, we will use S as a description of the spread. But if we only care the mean, the $ S / \sqrt{n} $ will show the description of the error when we calculate the mean. When the n is large enough, we will get a precise mean with small error. But this error have no effect of S, which is the description of the spread behind the sample. If you want an interval estimation of the sample mean instead of a point estimation, you may need to consider that t-value multiply the standard error.
 
 Ok, finally I sort out those terms. I cite the work done by [Professor Brian Caffo](https://github.com/bcaffo/Caffo-Coursera), thank you very much.
