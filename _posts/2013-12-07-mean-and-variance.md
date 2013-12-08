@@ -75,16 +75,16 @@ Ok, we talk enough about the distribution itself. Next we will see the sample.
 The independent and identically distributed random variables are the default model for random samples. Under iid, we could use the probaliblity to give out the description of sample. So if the values of variables is uncorrelated, then the variance of the sum is the sum of the variances.
 
 $$
-Var\left(\sum_{i=1}^n X_i \right) = \sum_{i=1}^n \Var(X_i) 
+Var\left(\sum_{i=1}^n X_i \right) = \sum_{i=1}^n Var(X_i) 
 $$
 
 So we will get the variance of the mean of the sample:
 
 $$
 \begin{align}
-\Var(\bar X) & = & \Var \left( \frac{1}{n}\sum_{i=1}^n X_i \right)\\ \\
-    & = & \frac{1}{n^2} \Var\left(\sum_{i=1}^n X_i \right)\\ \\
-    & = & \frac{1}{n^2} \sum_{i=1}^n \Var(X_i) \\ \\
+Var(\bar X) & = & Var \left( \frac{1}{n}\sum_{i=1}^n X_i \right)\\ \\
+    & = & \frac{1}{n^2} Var\left(\sum_{i=1}^n X_i \right)\\ \\
+    & = & \frac{1}{n^2} \sum_{i=1}^n Var(X_i) \\ \\
     & = & \frac{1}{n^2} \times n\sigma^2 \\ \\
     & = & \frac{\sigma^2}{n} 
 \end{align}
@@ -103,14 +103,14 @@ We proof it:
 $$
 \begin{align}
 E\left[\sum_{i=1}^n (X_i - \bar X)^2\right] & = & \sum_{i=1}^n E\left[X_i^2\right] - n E\left[\bar X^2\right] \\ \\
-    & = & \sum_{i=1}^n \left\{\Var(X_i) + \mu^2\right\} - n \left\{\Var(\bar X) + \mu^2\right\} \\ \\
+    & = & \sum_{i=1}^n \left\{Var(X_i) + \mu^2\right\} - n \left\{Var(\bar X) + \mu^2\right\} \\ \\
     & = & \sum_{i=1}^n \left\{\sigma^2 + \mu^2\right\} - n \left\{\sigma^2 / n + \mu^2\right\} \\ \\
     & = & n \sigma^2 + n \mu ^ 2 - \sigma^2 - n \mu^2 \\ \\
     & = & (n - 1) \sigma^2
 \end{align}
 $$
 
-For the estimator $$ S^2 $$ of $$ \sigma^2 $$ is unbiased, the calculation of sample variance $ S^2 $ involves dividing by $$ n-1 $$. And $$ S / \sqrt{n} $$ is called the sample standard error of the mean.
+For the estimator $$ S^2 $$ of $$ \sigma^2 $$ is unbiased, the calculation of sample variance $$ S^2 $$ involves dividing by $$ n-1 $$. And $$ S / \sqrt{n} $$ is called the sample standard error of the mean.
 
 ## Mean Again
 
