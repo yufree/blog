@@ -19,7 +19,7 @@ yufree@live.cn
 
 - Pages
 
-[Yufree's blog](http://yufree.github.io/blog/)
+[Yufree's blog](http://yufree.github.io/)
 
 ## Research Interest
 
@@ -51,9 +51,11 @@ yufree@live.cn
 
 ### In English
 
-[My Google Scholar Pages](http://scholar.google.com/citations?user=SPNX8oUAAAAJ&hl=en)
+- [My Google Scholar Pages](http://scholar.google.com/citations?user=SPNX8oUAAAAJ&hl=en)
 
 Miao Yu, Jiyan Liu, Thanh Wang, Jianteng Sun, Runzeng Liu, and Guibin Jiang, Metabolites of 2,4,4′-Tribrominated Diphenyl Ether (BDE-28) in Pumpkin after In Vivo and In Vitro Exposure*Environmental Science & Technology* 2013 47 (23), 13494-13501
+
+- [R package - rgabriel](http://cran.r-project.org/web/packages/rgabriel/index.html)
 
 ### In Chinese
 
