@@ -9,7 +9,7 @@ title: A very brief intro of shiny
 
 - R based
 - View as webpages hosted on servers
-- *give a request, show the result*
+- **give a request, show the result**
 
 # Backgroud needed
 
@@ -22,7 +22,7 @@ title: A very brief intro of shiny
 
 # How shiny works?
 
-- Reactive Programming Model
+- Reactive Programming
 
     When the input changes, the R code will run again to get a refresh. Shiny makes the connections among R, input and the the output on your screen by some communication tags. So you can just focused on R code and let shiny do the other things.
     
@@ -40,7 +40,7 @@ title: A very brief intro of shiny
 
 - RUN
 
-    When you finish your server.R and ui.R, just`runApp()` and you will get the great webpages.
+    When you finish your server.R and ui.R, just `runApp()` and you will get the great webpages.
     
 # How to share your apps?
 
