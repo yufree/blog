@@ -8,7 +8,7 @@ title: A very brief intro of shiny
 # What is shiny?
 
 - R based
-- View as webpages hosted on servers
+- View as webpage hosted on servers
 - **give a request, show the result**
 
 # Backgroud needed
@@ -32,15 +32,15 @@ title: A very brief intro of shiny
 
 - ui.R
   
-    You need tell the app user where is the input/output box, which values of the input should be transfer to R code and which values of the output should be display on the webpages. You can also custome your UI of app here if you have writen some basic html pages.
+    You need tell the app user where is the input/output box, which values of the input should be transfer to R code and which values of the output should be display on the webpage. You can also custome your UI of app here if you have writen some basic html pages.
     
 - Render function in server.R
 
-    Tell shiny the output values used in the app's webpages. This function need to be re-runned when the input changes, so the render function must be assighed to a output values while contains the input values.
+    Tell shiny the output values used in the app's webpage. This function need to be re-ran when the input changes, so the render function must be assighed to a output values while contains the input values.
 
 - RUN
 
-    When you finish your server.R and ui.R, just `runApp()` and you will get the great webpages.
+    When you finish your server.R and ui.R, just `runApp()` and you will get the great webpage.
     
 # How to share your apps?
 
