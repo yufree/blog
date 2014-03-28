@@ -44,3 +44,7 @@ Anyway, I am against any limitation of internet and if you want to know the real
 > ebay in China: taobao.com
 
 If you want to know more, just comment.
+
+======
+
+Ok, I think I need to give a way to help you visit Facebook or some other banned websites here in China. You need to search for goagent which is a software help you to build a free proxy for you only host on google's severs. Here is the [how to](http://freenuts.com/how-to-install-and-use-goagent/).
