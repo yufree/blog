@@ -61,6 +61,10 @@ Miao Yu, Jiyan Liu, Thanh Wang, Jianteng Sun, Runzeng Liu, and Guibin Jiang, Met
 
 [My Chinese Pages on the sciencenet.cn](http://blog.sciencenet.cn/u/yufree)
 
+## Presentations
+
+- Miao YU,2014,Model selection and prediction of retention time of PBDEs on DB-5ms column, 10th conference of bio-medicine chromatograph(China), Weihai, China.([slides](https://github.com/yufree/presentation/blob/master/20140420weihai.pdf),[shinyBDE](https://github.com/yufree/shinyBDE))
+
 ## Computer Skills
 
 - <s>I currently use Windows 8 but I am also working under Ubuntu for a long time, both of which are excellent operation system</s> Now I use Ubuntu again;
