@@ -49,17 +49,35 @@ yufree@live.cn
 
 ## Publication
 
-### In English
+### Papers
 
-- [My Google Scholar Pages](http://scholar.google.com/citations?user=SPNX8oUAAAAJ&hl=en)
+- Yu, M., Liu, J., Wang, T., Sun, J., Liu, R., & Jiang, G. (2013). Metabolites of 2,4,4’-tribrominated diphenyl ether (BDE-28) in pumpkin after in vivo and in vitro exposure. Environmental Science & Technology, 47(23), 13494–501. 
 
-Miao Yu, Jiyan Liu, Thanh Wang, Jianteng Sun, Runzeng Liu, and Guibin Jiang, Metabolites of 2,4,4′-Tribrominated Diphenyl Ether (BDE-28) in Pumpkin after In Vivo and In Vitro Exposure*Environmental Science & Technology* 2013 47 (23), 13494-13501
+- Zhang, H., Wang, Y., Sun, C., Yu, M., Gao, Y., Wang, T., … Jiang, G. (2014). Levels and distributions of hexachlorobutadiene and three chlorobenzenes in biosolids from wastewater treatment plants and in soils within and surrounding a chemical plant in China. Environmental Science & Technology, 48(3), 1525–31.
+
+- Sun, J., Liu, J., Liu, Y., Yu, M., & Jiang, G. (2014). Reciprocal Transformation between Hydroxylated and Methoxylated Polybrominated Diphenyl Ethers in Young Whole Pumpkin Plants. Environmental Science & Technology Letters, 1(4), 236–241.
+
+- Liu, Q., Cheng, M., Long, Y., Yu, M., Wang, T., & Jiang, G. (2014). Graphenized pencil lead fiber: facile preparation and application in solid-phase microextraction. Journal of Chromatography. A, 1325, 1–7. 
+
+- Liu, R., Ruan, T., Wang, T., Song, S., Yu, M., Gao, Y., … Jiang, G. (2013). Trace analysis of mono-, di-, tri-substituted polyfluoroalkyl phosphates and perfluorinated phosphonic acids in sewage sludge by high performance liquid chromatography tandem mass spectrometry. Talanta, 111, 170–7. 
+
+- Qu, G., Liu, A., Wang, T., Zhang, C., Fu, J., Yu, M., … Jiang, G. (2013). Identification of tetrabromobisphenol A allyl ether and tetrabromobisphenol A 2,3-dibromopropyl ether in the ambient environment near a manufacturing site and in mollusks at a coastal region. Environmental Science & Technology, 47(9), 4760–7. 
+
+- Sun, J., Liu, J., Liu, Q., Ruan, T., Yu, M., Wang, Y., … Jiang, G. (2013). Hydroxylated polybrominated diphenyl ethers (OH-PBDEs) in biosolids from municipal wastewater treatment plants in China. Chemosphere, 90(9), 2388–95. 
+
+- Sun, J., Liu, J., Yu, M., & Wang, C. (2013). In vivo metabolism of 2, 2′, 4, 4′-tetrabromodiphenyl ether (BDE-47) in young whole pumpkin plant. Environmental Science & Technology, 47(8), 3701–3707. 
+
+### Software Package
 
 - [R package - rgabriel](http://cran.r-project.org/web/packages/rgabriel/index.html)
 
-### In Chinese
+### Grant Patents
 
-[My Chinese Pages on the sciencenet.cn](http://blog.sciencenet.cn/u/yufree)
+- [Efficient solar power supply device](https://www.google.com/patents/CN201004609Y) Utility model
+
+- [Preparation method of zinc chloride modified red mud](https://www.google.com/patents/CN101559353B) Invention
+
+- [Spiral suspended type red mud membrane bag adsorption and dephosphorization apparatus](https://www.google.com/patents/CN101456602B) Invention
 
 ## Presentations
 
@@ -67,21 +85,17 @@ Miao Yu, Jiyan Liu, Thanh Wang, Jianteng Sun, Runzeng Liu, and Guibin Jiang, Met
 
 ## Computer Skills
 
-- <s>I currently use Windows 8 but I am also working under Ubuntu for a long time, both of which are excellent operation system</s> Now I use Ubuntu again;
-
 - I use Tex(lyx) to layout my papers but sometimes I have to use Word and I am skilled at both of them;
 
-- Both of Vim and Emacs are good text editors, but in fact I use <s>notebook or </s>gedit for most of the time;
+- Most of my data analysis is done under RStudio wiht Knitr and I think repeatability studies are important for every scientist and I know how to use Excle, origin, SPSS, Octave... but I just prefer R;
 
-- Most of my data analysis is done under RStudio wiht Knitr and I think repeatability studies are important for every scientist and I know how to use Excle, origin, SPSS, Matlab... but I just prefer R;
+- Beamer is simple and Powerpoint is beautiful but recently I found html5 could be used to show a bettter presentation;
 
-- Beamer is simple and Powerpoint is beautiful but recently I found html5 could be used to give a presentation well;
-
-- <s>I use Endnote to manage my literatures and comment each of them, then I will use evernote to collect some novol ideas and bibtex for a paper</s>I use Zotero and 4share as webdev for attachment;
+- I use Zotero to manage my literatures and use 4share as webdev for attachment;
 
 - I learned C when I was a freshman then I also learned S, python and Matlab for simple programming in my research but I think shell is more powerful;
 
-- I could read stuctured codes and I just guess the usages of some codes when I need to use them but for most of the time, it works;
+- I could read stuctured codes and guess the usages of some functions by their names. For most of the time, it works;
 
 - I am also skilled to get aross the great firewall so never worried about it.
 
