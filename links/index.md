@@ -7,10 +7,14 @@ layout: page
 
 - [Yufree](http://yufree.github.io/blogcn): My Chinese pages
 
-- [Photo](http://yufree.diandian.com/): I am not a photographer, but I like it
+- [Linkedin](http://cn.linkedin.com/pub/yufree): I am looking for a post-doc position
 
-- [Dropbox](http://db.tt/fkiWF5s): If you want a bonus of 500M from Dropbox, this link will help
+- [Github](https://github.com/yufree): I am not a coder, but I need code
+
+- [Photo](http://yufree.lofter.com/): I am not a photographer, but I like it
 
 - [Google +](https://plus.google.com/u/0/113182152334758541895): Just circle me
 
 - [Twitter](https://twitter.com/yu_free): My twitter
+
+- [Facebook](https://www.facebook.com/yufreecas): My Facebook
