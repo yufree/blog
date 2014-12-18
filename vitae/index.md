@@ -71,7 +71,7 @@ yufree@live.cn
 
 - [R package - rgabriel](http://cran.r-project.org/web/packages/rgabriel/index.html)
 
-### Grant Patents
+### Granted Patents
 
 - [Efficient solar power supply device](https://www.google.com/patents/CN201004609Y) Utility model
 
@@ -82,6 +82,10 @@ yufree@live.cn
 ## Presentations
 
 - Miao YU,2014,Model selection and prediction of retention time of PBDEs on DB-5ms column, 10th conference of bio-medicine chromatograph(China), Weihai, China.([slides](https://github.com/yufree/presentation/blob/master/20140420weihai.pdf),[shinyBDE](https://github.com/yufree/shinyBDE))
+
+## Recommendation
+
+[Prof. Brain Caffo](http://yufree.github.io/blog/vitae/BrainCaffo.PDF)
 
 ## Computer Skills
 
