@@ -85,7 +85,7 @@ yufree@live.cn
 
 ## Recommendation
 
-[Prof. Brain Caffo](http://yufree.github.io/blog/vitae/BrainCaffo.PDF)
+[Prof. Brain Caffo from JHU](https://github.com/yufree/blog/blob/gh-pages/vitae/BrainCaffo.pdf)
 
 ## Computer Skills
 
