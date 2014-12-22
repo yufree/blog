@@ -101,6 +101,8 @@ yufree@live.cn
 
 - I could read stuctured codes and guess the usages of some functions by their names. For most of the time, it works;
 
+- I tried to learn PS many times and finally chose ImageJ;
+
 - I am also skilled to get aross the great firewall so never worried about it.
 
 _I love open source software!_
