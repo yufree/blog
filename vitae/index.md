@@ -23,11 +23,7 @@ yufree@live.cn
 
 ## Research Interest
 
-- Analysis method and the environmental fates of certain congeners of brominated flame retardants(BFRs) and their potential metabolites
-
-- Non-target analysis of Enviromental pollutions
-
-- Environmental Statistics
+POPs, Environmental Processes, Non-targeted Analysis, CSIA, Data Science
 
 ## Education Background
 
@@ -36,6 +32,14 @@ yufree@live.cn
 - 2006.08 ~ 2010.06, Bachelor of Science, School of Environmental Science and Technology, Shandong University 
 
 ## Honors & Awards
+
+- Merit Student, University of Chinese Academy of Sciences, 2014
+
+- First-class scholarship, RCEES, CAS, 2013
+
+- Second-class scholarship, RCEES, CAS, 2012
+
+- Second-class scholarship, RCEES, CAS, 2011
 
 - The first prize in the group competition in science and technology innovation fund project, Shandong University, 2008
 
@@ -55,7 +59,7 @@ yufree@live.cn
 
 - Zhang, H., Wang, Y., Sun, C., Yu, M., Gao, Y., Wang, T., … Jiang, G. (2014). Levels and distributions of hexachlorobutadiene and three chlorobenzenes in biosolids from wastewater treatment plants and in soils within and surrounding a chemical plant in China. Environmental Science & Technology, 48(3), 1525–31.
 
-- Sun, J., Liu, J., Liu, Y., Yu, M., & Jiang, G. (2014). Reciprocal Transformation between Hydroxylated and Methoxylated Polybrominated Diphenyl Ethers in Young Whole Pumpkin Plants. Environmental Science & Technology Letters, 1(4), 236–241.
+- Sun, J., Liu, J., Liu, Y., Yu, M., & Jiang, G. (2014). Reciprocal Transformation between Hydroxylated and Methoxylated Polybrominated Diphenyl Ethers in Young Whole Pumpkin Plants. Environmental Science & Technology Letters, 1(4), 236–41.
 
 - Liu, Q., Cheng, M., Long, Y., Yu, M., Wang, T., & Jiang, G. (2014). Graphenized pencil lead fiber: facile preparation and application in solid-phase microextraction. Journal of Chromatography. A, 1325, 1–7. 
 
@@ -65,7 +69,7 @@ yufree@live.cn
 
 - Sun, J., Liu, J., Liu, Q., Ruan, T., Yu, M., Wang, Y., … Jiang, G. (2013). Hydroxylated polybrominated diphenyl ethers (OH-PBDEs) in biosolids from municipal wastewater treatment plants in China. Chemosphere, 90(9), 2388–95. 
 
-- Sun, J., Liu, J., Yu, M., & Wang, C. (2013). In vivo metabolism of 2, 2′, 4, 4′-tetrabromodiphenyl ether (BDE-47) in young whole pumpkin plant. Environmental Science & Technology, 47(8), 3701–3707. 
+- Sun, J., Liu, J., Yu, M., Wang, C., Sun, Y., Zhang, A., Wang, T., Lei, Z., Jiang, G. (2013). In vivo metabolism of 2, 2′, 4, 4′-tetrabromodiphenyl ether (BDE-47) in young whole pumpkin plant. Environmental Science & Technology, 47(8), 3701–7. 
 
 ### Software Package
 
@@ -82,6 +86,8 @@ yufree@live.cn
 ## Presentations
 
 - Miao YU,2014,Model selection and prediction of retention time of PBDEs on DB-5ms column, 10th conference of bio-medicine chromatograph(China), Weihai, China.([slides](https://github.com/yufree/presentation/blob/master/20140420weihai.pdf),[shinyBDE](https://github.com/yufree/shinyBDE))
+
+- Miao YU, 2014, Digging the thresholds in environmental data, 2nd Environmental pollution and health forum for Graduate students, Beijing, China.([slides](http://yufree.github.io/presentation/threshold/threshold))
 
 ## Recommendation
 
