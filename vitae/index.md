@@ -89,6 +89,8 @@ POPs, Environmental Processes, Non-targeted Analysis, CSIA, Data Science
 
 - Miao YU, 2014, Digging the thresholds in environmental data, 2nd Environmental pollution and health forum for Graduate students, Beijing, China.([slides](http://yufree.github.io/presentation/threshold/threshold))
 
+- Miao Yu, 2015, Analysis method for unknown Mono-MeO-PBDEs based on GC-qMS, Chinese Chemical Society: The 18th National Conference on Organic Analysis and Bioanalysis, Shanghai, China
+
 ## Recommendation
 
 [Prof. Brain Caffo from JHU](https://github.com/yufree/blog/blob/gh-pages/vitae/BrainCaffo.pdf)
