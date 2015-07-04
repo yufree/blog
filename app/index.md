@@ -31,4 +31,4 @@ This application is used to show the database of PBDEs' RRTs on DB-5ms and predi
 - Click [here](https://yufree.shinyapps.io/shinyBDE)
 - [Source code](https://github.com/yufree/shinyBDE)
 
-Contact [me](mailto://yufree@live.cn) if your need more informations
+Contact [me](mailto://yufree@live.cn) if your need more information.
