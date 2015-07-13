@@ -35,6 +35,8 @@ POPs, Environmental Processes, Non-targeted Analysis, CSIA, Data Science
 
 - Merit Student, University of Chinese Academy of Sciences, 2014
 
+- First-class scholarship, RCEES, CAS, 2014
+
 - First-class scholarship, RCEES, CAS, 2013
 
 - Second-class scholarship, RCEES, CAS, 2012
@@ -90,6 +92,8 @@ POPs, Environmental Processes, Non-targeted Analysis, CSIA, Data Science
 - Miao YU, 2014, Digging the thresholds in environmental data, 2nd Environmental pollution and health forum for Graduate students, Beijing, China.([slides](http://yufree.github.io/presentation/threshold/threshold))
 
 - Miao Yu, 2015, Analysis method for unknown Mono-MeO-PBDEs based on GC-qMS, Chinese Chemical Society: The 18th National Conference on Organic Analysis and Bioanalysis, Shanghai, China
+
+- Miao Yu, 2015, Organic Stable Isotope Analysis with GC-qMS for PBDEs in a molecular view, Isotopes 2015, Jerusalem, Israel
 
 ## Recommendation
 
