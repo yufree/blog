@@ -57,7 +57,9 @@ POPs, Environmental Processes, Non-targeted Analysis, CSIA, Data Science
 
 ### Papers
 
-- Yu, M., Liu, J., Wang, T., Sun, J., Liu, R., & Jiang, G. (2013). Metabolites of 2,4,4’-tribrominated diphenyl ether (BDE-28) in pumpkin after in vivo and in vitro exposure. Environmental Science & Technology, 47(23), 13494–501. 
+- Yu, M., Liu, J., Wang, T., Sun, J., Liu, R., & Jiang, G. (2013). Metabolites of 2,4,4’-tribrominated diphenyl ether (BDE-28) in pumpkin after in vivo and in vitro exposure. Environmental Science & Technology, 47(23), 13494–501.
+
+- Tian, Y., Yu, M., Chen, J., Liu, C., Shi, J., Chen, H., Jiang, G.(2015). Real Time Online Correction of Mass Shifts and Intensity Fluctuations in Extractive Electrospray Ionization Mass Spectrometry. Anal. Chem. 87, 11962–66. 
 
 - Liu, A., Tian, Y., Yin, N., Yu, M., Qu, G., Shi, J., … Jiang, G. (2015). Characterization of Three Tetrabromobisphenol-S Derivatives in Mollusks from Chinese Bohai Sea: A Strategy for Novel Brominated Contaminants Identification. Scientific reports, 5, 11741.
 
@@ -96,6 +98,8 @@ POPs, Environmental Processes, Non-targeted Analysis, CSIA, Data Science
 - Miao Yu, 2015, Analysis method for unknown Mono-MeO-PBDEs based on GC-qMS, Chinese Chemical Society: The 18th National Conference on Organic Analysis and Bioanalysis, Shanghai, China
 
 - Miao Yu, 2015, Organic Stable Isotope Analysis with GC-qMS for PBDEs in a molecular view, Isotopes 2015, Jerusalem, Israel
+
+- Miao Yu, 2015, Data visualization of GC-MS and its application in environmental analysis, The 8th National Conference on Environmental Chemistry, Guangzhou, China
 
 ## Recommendation
 
