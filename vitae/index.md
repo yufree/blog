@@ -33,6 +33,8 @@ POPs, Environmental Processes, Non-targeted Analysis, CSIA, Data Science
 
 ## Honors & Awards
 
+- First-class scholarship, RCEES, CAS, 2015
+
 - Merit Student, University of Chinese Academy of Sciences, 2014
 
 - First-class scholarship, RCEES, CAS, 2014
@@ -58,6 +60,8 @@ POPs, Environmental Processes, Non-targeted Analysis, CSIA, Data Science
 ### Papers
 
 - Yu, M., Liu, J., Wang, T., Sun, J., Liu, R., & Jiang, G. (2013). Metabolites of 2,4,4’-tribrominated diphenyl ether (BDE-28) in pumpkin after in vivo and in vitro exposure. Environmental Science & Technology, 47(23), 13494–501.
+
+- Yu, M., Liu, J., Wang, T., Zhang, A., Wang, Y., Zhou, Q., Jiang, G., (2016). Structure prediction of methyoxy-polybrominated diphenyl ethers (MeO-PBDEs) through GC–MS analysis of their corresponding PBDEs. Talanta 152, 9–14.
 
 - Tian, Y., Yu, M., Chen, J., Liu, C., Shi, J., Chen, H., Jiang, G.(2015). Real Time Online Correction of Mass Shifts and Intensity Fluctuations in Extractive Electrospray Ionization Mass Spectrometry. Anal. Chem. 87, 11962–66. 
 
@@ -103,7 +107,11 @@ POPs, Environmental Processes, Non-targeted Analysis, CSIA, Data Science
 
 ## Recommendation
 
-[Prof. Brain Caffo from JHU](https://github.com/yufree/blog/blob/gh-pages/vitae/BrainCaffo.pdf)
+[Prof. Guibin Jiang](https://github.com/yufree/blog/blob/gh-pages/vitae/ProfJiang.pdf)
+
+[Prof. Chengbin Zheng](https://github.com/yufree/blog/blob/gh-pages/vitae/ProfZheng.pdf)
+
+[Prof. Brain Caffo](https://github.com/yufree/blog/blob/gh-pages/vitae/ProfCaffo.pdf)
 
 ## Computer Skills
 
