@@ -10,6 +10,6 @@ I am lazy, so I just modified [Xie's pages](http://yihui.name) to show this blog
 
 For English is not my mother tongue, you have to bear my tongue to read my articles.
 
-<s>No papers,</s> No girlfriend, No money. 
+<s>No papers,</s> <s>No girlfriend,</s> No money. 
 
 Don't panic!
