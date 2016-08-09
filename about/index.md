@@ -2,7 +2,7 @@
 title: About Me
 layout: page
 ---
-Hi, My name is YU Miao and I am a Ph.D. candidate in Research Center for Eco-Environmental Sciences(RCEES), Chinese Academy of Sciences. 
+Hi, My name is YU Miao and I am currently a Postdoctoral Fellow in [Prof. Pawliszyn's group](https://uwaterloo.ca/pawliszyn-group/)). 
 
 My major is Environmental Science so I am a dabbler in many science topics. I have board interests such as cook, photograph, programming... but they are just hobbies, not special talents. So you know I am a dabbler in life, too. 
 

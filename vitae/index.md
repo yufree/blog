@@ -8,10 +8,10 @@ title: Vitae
 
 - Address
 
-State Key Laboratory of Environmental Chemistry and Ecotoxicology Research Center for Eco-Environmental Sciences
-Chinese Academy of Sciences
-P.O. Box 2871
-Beijing 100085
+Department of Chemistry
+University of Waterloo
+200 University Avenue West
+Waterloo, Ontario, Canada, N2L 3G1
   
 - Email
 
@@ -27,9 +27,13 @@ POPs, Environmental Processes, Non-targeted Analysis, CSIA, Data Science
 
 ## Education Background
 
-- 2010.08 ~ Present, PhD student in Research Center for Eco-Environmental Sciences(RCEES), Chinese Academy of Sciences
+- 2010.08 ~ 2016.06, PhD in Environmental Sciences, Research Center for Eco-Environmental Sciences(RCEES), Chinese Academy of Sciences
 
 - 2006.08 ~ 2010.06, Bachelor of Science, School of Environmental Science and Technology, Shandong University 
+
+## Professional Experience
+
+- 2016.08 ~ now, Postdoctoral Fellow in University of Waterloo, Canada.
 
 ## Honors & Awards
 
