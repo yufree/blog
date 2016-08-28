@@ -116,21 +116,29 @@ POPs, Environmental Processes, Non-targeted Analysis, CSIA, Data Science
 [Prof. Guibin Jiang](http://sourcedb.cas.cn/sourcedb_rcees_cas/yw/cm/200906/t20090612_1038265.html)
 
 ADDRESS: 18 SHUANGQING ROAD, HAIDIAN DISTRICT, BEIJING, CHINA, 100085 
+
 PHONE: +86-10-62840129 
+
 EMAIL: gbjiang@rcees.ac.cn
+
 Recommendation: https://github.com/yufree/blog/blob/gh-pages/vitae/ProfJiang.pdf
 
 [Prof. Chengbin Zheng](https://scholar.google.ca/citations?user=cKlGcv0AAAAJ&hl=en)
 
 ADDRESS: No.24 South Section 1, Yihuan Road, Chengdu, China, 610014
+
 PHONE: +86-028-85415810 
+
 EMAIL: abinscu@scu.edu.cn 
+
 Recommendation: https://github.com/yufree/blog/blob/gh-pages/vitae/ProfZheng.pdf
 
 [Prof. Brain Caffo](http://www.bcaffo.com/)
 
 ADDRESS: Department of Biostatistics, Bloomberg School of Public Health, Johns Hopkins University 615 N Wolfe Street, Baltimore, MD 212105
+
 EMAIL: bcaffoweb@jhu.edu
+
 Recommendation: https://github.com/yufree/blog/blob/gh-pages/vitae/ProfCaffo.pdf
 
 ## Computer Skills
