@@ -4,7 +4,7 @@ title: Vitae
 ---
 # Miao YU
 
-## Contact Information
+# Contact Information
 
 - Address
 
@@ -21,21 +21,21 @@ yufree@live.cn
 
 [Yufree's blog](http://yufree.github.io/)
 
-## Research Interest
+# Research Interest
 
 POPs, Environmental Processes, Non-targeted Analysis, CSIA, Data Science
 
-## Education Background
+# Education Background
 
 - 2010.08 ~ 2016.06, PhD in Environmental Sciences, Research Center for Eco-Environmental Sciences(RCEES), Chinese Academy of Sciences
 
 - 2006.08 ~ 2010.06, Bachelor of Science, School of Environmental Science and Technology, Shandong University 
 
-## Professional Experience
+# Professional Experience
 
 - 2016.08 ~ now, Postdoctoral Fellow in University of Waterloo, Canada.
 
-## Honors & Awards
+# Honors & Awards
 
 - First-class scholarship, RCEES, CAS, 2015
 
@@ -59,9 +59,9 @@ POPs, Environmental Processes, Non-targeted Analysis, CSIA, Data Science
 
 - Outstanding Member of Students Union in School of Environmental Science and Technology, Shandong University, 2006-2007 
 
-## Publication
+# Publication
 
-### Papers
+## Papers
 
 - YU M, LIU J, WANG T, SUN J, LIU R, JIANG G. Metabolites of 2,4,4'-tribrominated diphenyl ether (BDE-28) in pumpkin after in vivo and in vitro exposure [J]. Environ Sci Technol, 2013, 47(23): 13494-501.
 
@@ -87,11 +87,11 @@ POPs, Environmental Processes, Non-targeted Analysis, CSIA, Data Science
 
 - QU G, LIU A, WANG T, ZHANG C, FU J, YU M, SUN J, ZHU N, LI Z, WEI G, DU Y, SHI J, LIU S, JIANG G. Identification of tetrabromobisphenol A allyl ether and tetrabromobisphenol A 2,3-dibromopropyl ether in the ambient environment near a manufacturing site and in mollusks at a coastal region [J]. Environ Sci Technol, 2013, 47(9): 4760-7.
 
-### Software Package
+## Software Package
 
 - [R package - rgabriel](http://cran.r-project.org/web/packages/rgabriel/index.html)
 
-### Granted Patents
+## Granted Patents
 
 - [Efficient solar power supply device](https://www.google.com/patents/CN201004609Y) Utility model
 
@@ -99,7 +99,7 @@ POPs, Environmental Processes, Non-targeted Analysis, CSIA, Data Science
 
 - [Spiral suspended type red mud membrane bag adsorption and dephosphorization apparatus](https://www.google.com/patents/CN101456602B) Invention
 
-## Presentations
+# Presentations
 
 - Miao YU,2014,Model selection and prediction of retention time of PBDEs on DB-5ms column, 10th conference of bio-medicine chromatograph(China), Weihai, China.([slides](https://github.com/yufree/presentation/blob/master/20140420weihai.pdf),[shinyBDE](https://github.com/yufree/shinyBDE))
 
@@ -111,17 +111,17 @@ POPs, Environmental Processes, Non-targeted Analysis, CSIA, Data Science
 
 - Miao Yu, 2015, Data visualization of GC-MS and its application in environmental analysis, The 8th National Conference on Environmental Chemistry, Guangzhou, China
 
-## Recommendation
+# Recommendation
 
 [Prof. Guibin Jiang](http://sourcedb.cas.cn/sourcedb_rcees_cas/yw/cm/200906/t20090612_1038265.html)
 
-ADDRESS: 18 SHUANGQING ROAD, HAIDIAN DISTRICT, BEIJING, CHINA, 100085 
+ADDRESS: 18 Shuangqing Road, Haidian District, Beijing, China, 100085 
 
 PHONE: +86-10-62840129 
 
 EMAIL: gbjiang@rcees.ac.cn
 
-Recommendation: [click here](https://github.com/yufree/blog/blob/gh-pages/vitae/ProfJiang.pdf)
+Recommendation: [Click Here](https://github.com/yufree/blog/blob/gh-pages/vitae/ProfJiang.pdf)
 
 [Prof. Chengbin Zheng](https://scholar.google.ca/citations?user=cKlGcv0AAAAJ&hl=en)
 
@@ -131,7 +131,7 @@ PHONE: +86-028-85415810
 
 EMAIL: abinscu@scu.edu.cn 
 
-Recommendation: [click here](https://github.com/yufree/blog/blob/gh-pages/vitae/ProfZheng.pdf)
+Recommendation: [Click Here](https://github.com/yufree/blog/blob/gh-pages/vitae/ProfZheng.pdf)
 
 [Prof. Brain Caffo](http://www.bcaffo.com/)
 
@@ -139,9 +139,9 @@ ADDRESS: Department of Biostatistics, Bloomberg School of Public Health, Johns H
 
 EMAIL: bcaffoweb@jhu.edu
 
-Recommendation: [click here](https://github.com/yufree/blog/blob/gh-pages/vitae/ProfCaffo.pdf)
+Recommendation: [Click Here](https://github.com/yufree/blog/blob/gh-pages/vitae/ProfCaffo.pdf)
 
-## Computer Skills
+# Computer Skills
 
 - I use Tex(lyx) to layout my papers but sometimes I have to use Word and I am skilled at both of them;
 
