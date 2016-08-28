@@ -121,7 +121,7 @@ PHONE: +86-10-62840129
 
 EMAIL: gbjiang@rcees.ac.cn
 
-Recommendation: https://github.com/yufree/blog/blob/gh-pages/vitae/ProfJiang.pdf
+Recommendation: [click here](https://github.com/yufree/blog/blob/gh-pages/vitae/ProfJiang.pdf)
 
 [Prof. Chengbin Zheng](https://scholar.google.ca/citations?user=cKlGcv0AAAAJ&hl=en)
 
@@ -131,7 +131,7 @@ PHONE: +86-028-85415810
 
 EMAIL: abinscu@scu.edu.cn 
 
-Recommendation: https://github.com/yufree/blog/blob/gh-pages/vitae/ProfZheng.pdf
+Recommendation: [click here](https://github.com/yufree/blog/blob/gh-pages/vitae/ProfZheng.pdf)
 
 [Prof. Brain Caffo](http://www.bcaffo.com/)
 
@@ -139,7 +139,7 @@ ADDRESS: Department of Biostatistics, Bloomberg School of Public Health, Johns H
 
 EMAIL: bcaffoweb@jhu.edu
 
-Recommendation: https://github.com/yufree/blog/blob/gh-pages/vitae/ProfCaffo.pdf
+Recommendation: [click here](https://github.com/yufree/blog/blob/gh-pages/vitae/ProfCaffo.pdf)
 
 ## Computer Skills
 
