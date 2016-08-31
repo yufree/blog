@@ -11,4 +11,4 @@ For a well-trained analytical chemist, software or programming related stuff is 
 
 If you know the more details of data processing, you might get more insights for the data. Understanding the each steps might cost you whole day. But I also want to show them in my way. Such process would be helpful if you want to make further development to answer your scientific problems. 
 
-Here is the [workflow](http://yufree.cn/notes/metaworkflow.html) in Rstudio and a brife [version](http://yufree.cn/notes/xcms.html) in Chinese.
+Here is the [workflow](http://yufree.cn/metaworkflow/) in Rstudio and a brife [version](http://yufree.cn/notes/xcms.html) in Chinese.
