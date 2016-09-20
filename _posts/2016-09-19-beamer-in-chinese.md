@@ -27,21 +27,17 @@ output:
 
 Not everyone knows how to find the right name of a font. However, the updated ctex package solved such problem. They use some default setting to avoid the font issue. All you need to do is use the ctex package for your tex template.
 
-You might not be willing to modify the template in RStudio. All you need to do is use a new header tex document at the same dir of you Rmd files to add this package for you template(only one line in this header.tex):
-
-  \usepackage{ctex}
-
-Then tell RStudio to include this file:
+We might also use yaml:
 
 ---
 title: "中文测试"
 author: "Yufree"
 date: "2016年9月19日"
+header-includes:
+  - \usepackage{ctex}
 output: 
   beamer_presentation:
     latex_engine: xelatex
-    includes: 
-      in_header: header.tex
 ---
 
 OK, now you would see Chinese in your Beamer PDF slides.
@@ -58,6 +54,6 @@ or
 
 or
 
-- Use a seperate tex files to use the ctex package and include the file in your yaml (for everyone)
+- Use the ctex package in your yaml (for everyone)
 
 For Chinese in the figure, check [here](http://yufree.cn/blog/2014/07/21/rmd-to-pdf.html).
