@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Use Chinese/Japanese/Korean in RStudio Beamer Slides
+title: Use Chinese in RStudio Beamer Slides
 ---
 
-**RStudio** is an excellent IDE for R. However, using Chinese/Japanese/Korean in default setting of Rmd to output a PDF document is always annoying. Well, the source is **tex**.
+**RStudio** is an excellent IDE for R. However, using Chinese in default setting of Rmd to output a PDF document is always annoying. Well, the source is **tex**.
 
 **RStudio** uses **knitr** to covert the Rmd document into md document. Then it uses **Pandoc** to convert the md document into tex document. Then they actually use **tex** engine such as pdflatex or xelatex to get PDF document. 
 
-Why Chinese/Japanese/Korean would not display? This issue happens at the last step. By default, some templates such as beamer in **RStudio** use pdflatex. However, you might need CJK package. However you would need to use CJK environment to display Chinese. I don't think it is a good way and you need to write ugly documents.
+Why Chinese would not display? This issue happens at the last step. By default, some templates such as beamer in **RStudio** use pdflatex. However, you might need CJK package. However you would need to use CJK environment to display Chinese. I don't think it is a good way and you need to write ugly documents.
 
 xeCJK package would be preferred because you only need to set up the font for your Chinese and you will get the output. However, such configuration need you use xelatex to compile you documents.
 
@@ -60,4 +60,4 @@ or
 
 - Use the ctex package in your yaml (for everyone)
 
-For Chinese in the figure, check [here](http://yufree.cn/blog/2014/07/21/rmd-to-pdf.html).
+For Chinese in the figure and pdf, check [here](http://yufree.cn/blog/2014/07/21/rmd-to-pdf.html).
