@@ -15,6 +15,7 @@ For the beamer template in **RStudio**, they use pdflatex. So the first way to s
 
 The second issue is the font. When you use xelatex(actually xeCJK package), you need to set the font for CJK charactors such as Chinese. Maybe you could try the following yaml to use a font without sources.
 
+~~~
 ---
 title: "中文测试"
 author: "Yufree"
@@ -24,11 +25,13 @@ output:
   beamer_presentation:
     latex_engine: xelatex
 ---
+~~~
 
 Not everyone knows how to find the right name of a font. However, the updated ctex package solved such problem. They use some default setting to avoid the font issue. All you need to do is use the ctex package for your tex template.
 
 We might also use yaml:
 
+~~~
 ---
 title: "中文测试"
 author: "Yufree"
@@ -39,6 +42,7 @@ output:
   beamer_presentation:
     latex_engine: xelatex
 ---
+~~~
 
 OK, now you would see Chinese in your Beamer PDF slides.
 
