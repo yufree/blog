@@ -13,14 +13,21 @@ In this work, I wanted to access and reduce the uncertainties in the whole proce
 
 I am always wondering whether different pretreatments would show similar results for certain matrix and compounds. From this paper, my answer is almost yes. Certain pretreatments would remove something we do not like or harmful to the instruments. However, such influnces might be pointless and can't be detected on mass spectrum. In GC-MS, the co-elute influnces are hard to affect the your target compounds at the same retention time and the same massed. Only the rising baseline is important and we could get rid of it by the boundary model. Then the only thing we need to consider is the pollution of the instruments.
 
-Meanwhile, I need to say such model might not be suitable for high-resolution mass spectrum. However, this idea could be used to improve the analytical methods for some compounds, especially for PBDEs. Also this paper supplied some basic data for environmental analysis. As the rule of thumb, you might know:
+Meanwhile, I need to say such model might not be suitable for high-resolution mass spectrum. However, this idea could be used to improve the analytical methods for some compounds, especially for PBDEs. Also this paper supplied some basic data for environmental analysis. As a rule of thumb, you might know:
 
-When you rise 1 degrees centigrade, the 'dirty' zone's boundary would rise about 2 unit mass in the worst matrix and pretreatment. Always try to choose heavier ions for qualitative and quantitative analysis.
+> When you rise 1 degrees centigrade, the 'dirty' zone's boundary would rise about 2 unit mass in the worst matrix and pretreatment. Always try to choose heavier ions for qualitative and quantitative analysis.
 
-Here is the graphical summary for the whole methods:
+Here is the graphical summary for the whole methods and I think more patterns could be mined from the data of GC-MS:
 
-![](https://yufree.cn/blogcn/figure/MorF.jpg)
+![](http://yufree.cn/blogcn/figure/MorF.jpg)
 
-Also I developed a package to perform this kind of analysis in R. Check [here](https://github.com/yufree/enviGCMS).
+Also I developed a package to perform this kind of analysis in R. Check [here](https://github.com/yufree/enviGCMS). This package has been published on [CRAN](https://cran.r-project.org/web/packages/enviGCMS/index.html) and you could install and load it by:
+
+~~~
+install.packages('enviGCMS')
+library('enviGCMS')
+~~~
+
+You might find **Easter Eggs** in this package.
 
 If you have questions about this paper, comment here and I will reply as soon as possible. 
