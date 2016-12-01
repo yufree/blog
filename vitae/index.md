@@ -67,7 +67,11 @@ POPs, Environmental Processes, Non-targeted Analysis, CSIA, Data Science
 
 - YU M, LIU J, WANG T, ZHANG A, WANG Y, ZHOU Q, JIANG G. Structure prediction of methyoxy-polybrominated diphenyl ethers (MeO-PBDEs) through GC-MS analysis of their corresponding PBDEs [J]. Talanta, 2016, 152(9-14).
 
+- YU M, HOU X, Liu Q, Wang Y, Liu J, Jiang G. Evaluation and reduction of the analytical uncertainties in GC-MS analysis using a boundary regression model[J]. Talanta, 2017, 164(141–147). 
+
 - TIAN Y, YU M, CHEN J, LIU C, SHI J, CHEN H, JIANG G. Real Time Online Correction of Mass Shifts and Intensity Fluctuations in Extractive Electrospray Ionization Mass Spectrometry [J]. Anal Chem, 2015, 87(24): 11962-6.
+
+- CHI X, LIU J, YU M, Xie Z, Jiang G. Analysis of bromophenols in various aqueous samples using solid phase extraction followed by HPLC-MS/MS, Talanta, 2017, 164(57-63).
 
 - LIU A, QU G, YU M, LIU Y, SHI J, JIANG G. Tetrabromobisphenol-A/S and Nine Novel Analogs in Biological Samples from the Chinese Bohai Sea: Implications for Trophic Transfer [J]. Environ Sci Technol, 2016, 50(8): 4203-11.
 
@@ -90,6 +94,8 @@ POPs, Environmental Processes, Non-targeted Analysis, CSIA, Data Science
 ## Software Package
 
 - [R package - rgabriel](http://cran.r-project.org/web/packages/rgabriel/index.html)
+
+- [R package - enviGCMS](http://cran.r-project.org/web/packages/enviGCMS/index.html)
 
 ## Granted Patents
 
