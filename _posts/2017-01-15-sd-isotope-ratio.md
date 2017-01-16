@@ -5,7 +5,7 @@ title: Statistical uncertainty of Isotope Ratio
 
 In Analytical Chemistry, the measurements of isotope ratios are commons. However, I found the uncertainty of ratios are always shown in the format of standard deviation of independant vairiable, which is inappropriate in statistic. You accually measure at least two values to get one measurement.
 
-In fact, if you want to use the differences of isotope ratios as a measurement for certain process, you need to accept the assumption that the intensities of different isotopes are independant. Then we could make the Taylor series expansion of the ratio $\frac{x}{y}$ around $\mu_x$, $\mu_y$:
+In fact, if you want to use the differences of isotope ratios as a measurement for certain process, you need to accept the assumption that the intensities of different isotopes are independant. Then we could make the Taylor series expansion of the ratio $ \frac{x}{y} $ around $ \mu_x $, $ \mu_y $:
 
 $$
 \begin{split} 
