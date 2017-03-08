@@ -73,6 +73,8 @@ POPs, Environmental Processes, Non-targeted Analysis, CSIA, Data Science
 
 - CHI X, LIU J, YU M, Xie Z, Jiang G. Analysis of bromophenols in various aqueous samples using solid phase extraction followed by HPLC-MS/MS, Talanta, 2017, 164(57-63).
 
+- Li Y, Hou X, Yu M, Zhou Q, Liu J, Schnoor JL, Jiang G. Dechlorination and chlorine rearrangement of 1, 2, 5, 5, 6, 9, 10-heptachlorodecane mediated by the whole pumpkin seedlings[J]. Environmental Pollution, 2017
+
 - LIU A, QU G, YU M, LIU Y, SHI J, JIANG G. Tetrabromobisphenol-A/S and Nine Novel Analogs in Biological Samples from the Chinese Bohai Sea: Implications for Trophic Transfer [J]. Environ Sci Technol, 2016, 50(8): 4203-11.
 
 - SUN J, LIU J, YU M, WANG C, SUN Y, ZHANG A, WANG T, LEI Z, JIANG G. In vivo metabolism of 2,2',4,4'-tetrabromodiphenyl ether (BDE-47) in young whole pumpkin plant [J]. Environ Sci Technol, 2013, 47(8): 3701-7.
