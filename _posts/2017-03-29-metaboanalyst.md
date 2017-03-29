@@ -5,7 +5,7 @@ title: Tips for local installation of MetaboAnalyst on Windows
 
 I am running Windows 7 to perform metabolomics data analysis(mainly for mscovert). Recently I found MetaboAnalyst could be installed locally. Since some group members really care about their data safety, I just installed MetaboAnalyst on one of group computers. Here is some tips for it:
 
-- Windows 7 is currently not supported by Metaboanalyst (I saw some dependend linux package), so I use virtualbox to install a 64-bit ubuntu 16.10.
+- Windows 7 is currently not supported by Metaboanalyst, so I use virtualbox to install a 64-bit Ubuntu 16.10.
 
 - For Ubuntu, you need to install a few packages to support both the R and Java environment, also some packages. You might follow the script in bash:
 
@@ -39,7 +39,7 @@ sudo apt-get install libjpeg62
 ```
     - Install the Rstudio
 
-- MetaboAnalyst is actually a java-based web application (also, R based). You need java environment and use Tomcat or Glassfish to host the *.war file on server (linux or Mac OS). Then you only need to access it by browser, just like what you did online.
+- MetaboAnalyst is actually a java-based web application (also, R based). You need java environment and use Tomcat or Glassfish to host the *.war file on server (Linux or Mac OS). Then you only need to access it by browser, just like what you did online.
 
 - Install Glassfish. I tried Tomcat and the deploy always failed and I suggest to use Glassfish following the guide(you might need to set up user and password) and upload the *.war file by a web interface at http://localhost:4848
 
