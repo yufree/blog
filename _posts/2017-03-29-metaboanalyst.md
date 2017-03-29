@@ -19,11 +19,11 @@ sudo apt-get install libnetcdf-dev graphviz libxml2-dev default-jdk r-base-dev
 
 ```
 sudo apt-get isntall r-cran-rserve
+R
 ```
 
-    - Use the following code to install packages in R:
-
 ``` r
+# Use the following code to install packages in R:
 install.packages(c("ellipse", "scatterplot3d","pls", "caret", "lattice", "Cairo", "randomForest", "e1071","gplots", "som", "xtable", "RColorBrewer", "pheatmap", "igraph", "RJSONIO", "caTools", "ROCR", "pROC"))
 source("https://bioconductor.org/biocLite.R")
 biocLite()
