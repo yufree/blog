@@ -49,9 +49,9 @@ wget download.java.net/glassfish/4.1.1/release/glassfish-4.1.1.zip
 apt-get install unzip
 unzip glassfish-4.0.zip -d /opt
 cd /opt/glassfish/bin
-asadmin start-domain
-asadmin enable-secure-admin
-asadmin restart-domain
+./asadmin start-domain
+./asadmin enable-secure-admin
+./asadmin restart-domain
 ```
 ![](http://yufree.github.io/blogcn/figure/war.PNG)
 
@@ -72,5 +72,13 @@ R CMD Rserve
     - Save a bookmark for the url(in my case: http://192.168.56.1:8080/MetaboAnalyst/ ) Open the virtualbox all the time at the background
     ![](http://yufree.github.io/blogcn/figure/ip.PNG)
     - Enjoy local access (while not updated) to MetaboAnalyst
-    
+
+- Every time you restart your computer, input this in bash to start the MetaboAnalyst:
+
+```
+R CMD Rserve
+cd /opt/glassfish/bin
+./asadmin start-domain
+```
+
 - For the other thing, just follow the official guide [here](http://www.metaboanalyst.ca/faces/home.xhtml)
