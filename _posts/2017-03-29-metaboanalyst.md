@@ -31,8 +31,8 @@ biocLite(c("xcms", "impute", "pcaMethods", "siggenes", "globaltest", "GlobalAnco
 ```
 
 - If you want to install Rstudio on 64-bit Ubuntu, you need the following steps:
-    - Download "libgstreamer plugin" from https://packages.debian.org/jessie/amd64/libgstreamer-plugins-base0.10-0/download
-    - Download "libgstreamer" from https://packages.debian.org/jessie/amd64/libgstreamer0.10-0/download
+    - Download "libgstreamer plugin" from [here](https://packages.debian.org/jessie/amd64/libgstreamer-plugins-base0.10-0/download) 
+    - Download "libgstreamer" from [here](https://packages.debian.org/jessie/amd64/libgstreamer0.10-0/download) 
     - Install two packages above
     - Install the following packages
 ```
