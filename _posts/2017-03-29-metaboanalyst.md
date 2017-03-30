@@ -10,7 +10,7 @@ I am running Windows 7 to perform metabolomics data analysis(mainly for mscovert
 - For Ubuntu, you need to install a few packages to support both the R and Java environment, also some packages. You might follow the script in bash:
 
 ```
-sudo apt-get install libnetcdf-dev graphviz libxml2-dev default-jdk r-base-dev 
+sudo apt-get install libnetcdf-dev graphviz libxml2-dev libcairo2-dev default-jdk r-base-dev 
 ```
 
 - You also need to install some packages from either CRAN or Bioconductor
